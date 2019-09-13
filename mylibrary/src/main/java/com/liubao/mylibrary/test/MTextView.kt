@@ -1,11 +1,10 @@
-package com.liubao.autorecyclerview.test
+package com.liubao.mylibrary.test
 
 import android.content.Context
 import android.widget.TextView
-import androidx.core.widget.TextViewCompat
-import com.liubao.autorecyclerview.view.IBindClickListenerView
-import com.liubao.autorecyclerview.view.IBindDataView
-import com.liubao.autorecyclerview.view.ViewClickCallBack
+import com.liubao.mylibrary.view.IBindClickListenerView
+import com.liubao.mylibrary.view.IBindDataView
+import com.liubao.mylibrary.view.ViewClickCallBack
 
 class MTextView(context: Context) : TextView(context), IBindDataView<String>,
     IBindClickListenerView<String> {

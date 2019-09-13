@@ -1,4 +1,4 @@
-package com.liubao.autorecyclerview.view
+package com.liubao.mylibrary.view
 
 import android.content.Context
 import android.view.View

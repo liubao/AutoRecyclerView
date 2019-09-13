@@ -3,9 +3,9 @@ package com.liubao.autorecyclerview
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.liubao.autorecyclerview.model.MBaseModel
-import com.liubao.autorecyclerview.test.MTextView
-import com.liubao.autorecyclerview.view.FastRecyclerViewAdapter
+import com.liubao.mylibrary.model.MBaseModel
+import com.liubao.mylibrary.test.MTextView
+import com.liubao.mylibrary.view.FastRecyclerViewAdapter
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

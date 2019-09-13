@@ -1,4 +1,4 @@
-package com.liubao.autorecyclerview.model
+package com.liubao.mylibrary.model
 
 interface IBaseModel {
 

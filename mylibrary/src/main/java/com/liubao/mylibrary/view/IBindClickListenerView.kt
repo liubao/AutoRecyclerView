@@ -1,4 +1,4 @@
-package com.liubao.autorecyclerview.view
+package com.liubao.mylibrary.view
 
 
 interface IBindClickListenerView<T> {

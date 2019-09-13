@@ -1,4 +1,4 @@
-package com.liubao.autorecyclerview.view
+package com.liubao.mylibrary.view
 
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView

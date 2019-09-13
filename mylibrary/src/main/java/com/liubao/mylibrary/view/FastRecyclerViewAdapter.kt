@@ -1,12 +1,11 @@
-package com.liubao.autorecyclerview.view
+package com.liubao.mylibrary.view
 
 import android.content.Context
 import android.util.SparseArray
 import android.view.View
 import android.view.ViewGroup
 import androidx.annotation.NonNull
-import com.liubao.autorecyclerview.model.IBaseModel
-import com.liubao.autorecyclerview.model.MBaseModel
+import com.liubao.mylibrary.model.IBaseModel
 import java.lang.reflect.InvocationTargetException
 import java.util.HashMap
 
